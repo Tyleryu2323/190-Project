@@ -4,4 +4,5 @@
   Output Processing contains the output processing methods and utilization\
   results_v1 contains the midi outputs of version 1 model\
   results_v2 contains the midi outputs of version 2 model\
+  midi.zip contains the training set of midi files\
   results folder contains the results from the two models stored with pickle
